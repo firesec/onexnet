@@ -1,9 +1,9 @@
-Onex Cash Core staging tree 1.3.0
+Onex Cash Core staging tree 1.4.0
 ===============================
 
-![onex logo](https://raw.githubusercontent.com/onexcash/onex-core/master/src/qt/res/images/light/onex_logo_horizontal.png)
+![onex logo](https://raw.githubusercontent.com/onexcash/onex-core/master/src/qt/res/images/light/splash.png)
 
-https://www.onex.cash
+http://www.onex.network
 
 about
 ----------------
@@ -16,5 +16,4 @@ source software which enables the use of this currency.
 
 For more information:
 
-* https://www.onex.cash
-* https://bitcointalk.org/index.php?topic=2393150.140
+* http://www.onex.network
